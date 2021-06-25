@@ -1,0 +1,13 @@
+{
+    "name": "algos3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "plus_one.js",
+    "scripts": {
+        "dev": "nodemon short_word_distance.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
